@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "E:/ionicProjects/ToDoProject/www/js/controllers.js",
+        "E:/ionicProjects/ToDoProject/www/lib/ionic/js/ionic.min.js",
+        "E:/ionicProjects/ToDoProject/www/lib/ionic/js/ionic.js"
+    ]
+}
